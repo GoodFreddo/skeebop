@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="skeebop:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/skeebop_jar</output-path>
+    <root id="archive" name="skeebop.jar">
+      <element id="module-output" name="skeebop" />
+    </root>
+  </artifact>
+</component>
